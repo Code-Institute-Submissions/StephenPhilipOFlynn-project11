@@ -224,8 +224,9 @@ height: 300px;
     }
 
     #welcome {
-        padding: 30px 0;
-        margin: 0;
+        float: left;
+        font-size: 280%;
+        margin-left: 30px;
     }
 
     #left-about, #right-about {
