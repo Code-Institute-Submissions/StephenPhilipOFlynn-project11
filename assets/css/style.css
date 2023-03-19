@@ -196,17 +196,9 @@ hr {
     font-size: 280%;
 }
 
-#center-container {
-    width: 300px;
-    height: 300px;
-    border-radius: 10px;
-    border-width: 1px;
-    margin: 0 auto;
-}
-
 #center-cover-bg {
 background: url('../images/shutterstock_8-aerial-view.jpg') no-repeat center center;
-height: 50px;
+height: 300px;
 }
 
 /* gallery images */
