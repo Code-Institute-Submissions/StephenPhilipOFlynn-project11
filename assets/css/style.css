@@ -104,6 +104,18 @@ h1, h2 {
     }
 }
 
+/*event styling*/
+
+.events {
+    background-image: url('../images/shutterstock_7-chess-board-background.jpg')
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+
 /* footer styling */
 footer {
 height: 150px;
@@ -145,7 +157,7 @@ height: 150px;
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
+    background-color: sienna;
 }
 
 hr {
@@ -182,6 +194,19 @@ hr {
     text-align: center;
     margin: 20px 0;
     font-size: 280%;
+}
+
+#center-container {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    border-width: 1px;
+    margin: 0 auto;
+}
+
+#center-cover-bg {
+background: url('../images/shutterstock_8-aerial-view.jpg') no-repeat center center;
+height: 100%;
 }
 
 /* gallery images */
