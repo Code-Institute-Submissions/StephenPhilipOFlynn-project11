@@ -214,6 +214,16 @@ height: 300px;
     width: 100%;    
 }
 
+/*contact details*/
+
+#contact {
+    clear: both;
+}
+
+#signup {
+    clear: both
+}
+
 /* Tablet sized screens */
 
 @media screen and (max-width: 1200px) {
@@ -259,3 +269,5 @@ height: 300px;
     line-height: 25px;
 }
 }
+
+
