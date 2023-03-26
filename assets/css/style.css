@@ -264,7 +264,7 @@ height: 300px;
 #menu {
     clear: left;
     float: left;
-    margin-left: 30px;
+    margin-left: 10px;
     margin-bottom: 20px;
     line-height: 25px;
 }
@@ -293,5 +293,15 @@ height: 300px;
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
+    }
+
+    #logo {
+        float: left;
+        font-size: 280%;
+        margin-left: 10px;
+    }
+
+    #menu {
+    margin-left: 10px;
     }
 }
