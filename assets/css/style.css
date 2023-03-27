@@ -61,13 +61,12 @@ h1, h2 {
     height: 600px;
     width: 100%;
     overflow: hidden;
-
 }
 
 #hero-image {
-    height: auto;
+    height: 500px;
     width: 100%;
-    background: url('../images/shutterstock_9-coffee-men-chess.jpg') no-repeat center center;
+    background: url('../images/american-style-coffee-machine.jpg') no-repeat center center;
     animation-name: hero-zoom;
     animation-duration: 7s;
     animation-fill-mode: forwards;
@@ -106,11 +105,8 @@ h1, h2 {
 
 /*event styling*/
 
-.events {
-    background-image: url('../images/shutterstock_7-chess-board-background.jpg')
-    background-size: cover;
-    background-position: center;
-}
+.events { }
+    
 
 
 
@@ -197,8 +193,9 @@ hr {
 }
 
 #center-cover-bg {
-background: url('../images/shutterstock_8-aerial-view.jpg') no-repeat center center;
-height: 300px;
+background: url('../images/shutterstock_3-latte-and-board.jpg') no-repeat center center;
+max-width: 100%;
+height: 700px;
 }
 
 /* gallery images */
