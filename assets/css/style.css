@@ -214,10 +214,6 @@ height: 400px;
 
 /*register  page */
 
-#register {
-    margin-left: 30px;
-}
-
 #contact {
     clear: both;
 }
@@ -270,6 +266,14 @@ height: 400px;
     hr {
         display: none;
     }
+
+    #signup {
+        margin-left: 30px;
+    }
+    
+    #contact {
+        margin-left: 30px;
+    }
 }
 
 /* css for screen sizes 950px wide and down */
@@ -313,8 +317,6 @@ height: 400px;
 }
 
 }
-
-
 
 @media screen and (max-width: 800px) {
     #photos {
