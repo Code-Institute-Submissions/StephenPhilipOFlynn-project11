@@ -73,7 +73,7 @@ h1, h2 {
 }
 
 #cover-text {
-    font-size: 130%,
+    font-size: 130%;
     font-family: 'Roboto Mono', monospace;
     text-transform: uppercase;
     letter-spacing: 4px;
