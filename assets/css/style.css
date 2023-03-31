@@ -331,5 +331,7 @@ height: 400px;
 
     #menu {
     margin-left: 10px;
+    clear: both;
+    float: left;
     }
 }
