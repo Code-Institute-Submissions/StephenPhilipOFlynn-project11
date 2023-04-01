@@ -64,7 +64,7 @@ h1, h2 {
 }
 
 #hero-image {
-    height: 500px;
+    height: 600px;
     width: 100%;
     background: url('../images/men-playing-chess-reduced.jpg') no-repeat center center;
     animation-name: hero-zoom;
@@ -154,7 +154,7 @@ height: 150px;
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: sienna;
+    background-color: white;
 }
 
 hr {
