@@ -242,10 +242,12 @@ height: 400px;
   }
 
 input[type=text]:focus {
-    border: 3px solid #555;
+    border: 1px solid #555;
 }
 
 input[type="text"], input[type="email"] {
+    border: 1px solid #252525;
+    outline: 1px solid #252525;
     margin: 10px 0;
 }
 
