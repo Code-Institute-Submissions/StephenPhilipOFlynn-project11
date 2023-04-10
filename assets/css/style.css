@@ -259,6 +259,7 @@ input[type=text]:focus {
 input[type="text"], input[type="email"] {
     outline: 1px solid #252525;
     margin: 5px 0;
+    border-radius: 2px;
 }
 
 /* Tablet sized screens */
@@ -272,8 +273,9 @@ input[type="text"], input[type="email"] {
 
     #welcome {
         float: left;
-        font-size: 280%;
+        font-size: 200%;
         margin-left: 30px;
+        text-align: center;
     }
 
     #left-about, #right-about {
