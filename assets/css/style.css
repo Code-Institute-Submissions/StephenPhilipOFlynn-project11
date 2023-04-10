@@ -235,7 +235,7 @@ height: 400px;
     clear: both;
 }
 
-#button {
+#button-one {
     background-color: #3a3a3a;
     color: white;
     border: none;
@@ -247,10 +247,28 @@ height: 400px;
     margin: 8px 0;
 }
 
-#button:hover {
+#button-two {
+    background-color: #3a3a3a;
+    color: white;
+    border: none;
+    font-size: 20px;
+    padding: 12px 28px;
+    text-align: center;
+    display: block;
+    border-radius: 4px;
+    margin: 8px 0;
+}
+
+#button-one:hover {
     background-color: #195905;
     color: white;
   }
+
+#button-two:hover {
+    background-color: #d11818;
+    color: white;
+  }
+
 
 input[type=text]:focus {
     border: 1px solid #555;
