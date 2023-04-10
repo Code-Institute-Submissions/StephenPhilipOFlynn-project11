@@ -111,7 +111,7 @@ h1, h2 {
 
 #events-title 
 {
-    font-size: 200%;
+    font-size: 280%;
     text-align: center;
     margin: 20px 0;
  }
@@ -201,7 +201,7 @@ hr {
 #welcome {
     text-align: center;
     margin: 20px 0;
-    font-size: 200%;
+    font-size: 280%;
 }
 
 #center-cover-bg {
@@ -272,9 +272,7 @@ input[type="text"], input[type="email"] {
     }
 
     #welcome {
-        float: left;
         font-size: 200%;
-        margin-left: 30px;
         text-align: center;
     }
 
@@ -301,6 +299,10 @@ input[type="text"], input[type="email"] {
     
     #contact {
         margin-left: 30px;
+    }
+
+    #events-title {
+    font-size: 200%;
     }
 }
 
