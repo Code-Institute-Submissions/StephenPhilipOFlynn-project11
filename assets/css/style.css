@@ -55,6 +55,11 @@ h1, h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
+#tagline {
+    clear: both;
+    margin-left: 30px;
+}
+
 /* hero image */
 
 #hero-outer {
@@ -115,7 +120,6 @@ h1, h2 {
     text-align: center;
     margin: 20px 0;
  }
-
 
 /*contact details*/
 
@@ -382,15 +386,20 @@ input[type="text"], input[type="email"] {
     }
 
     #logo {
-        float: left;
-        font-size: 280%;
-        margin-left: 10px;
+    float: left;
+    font-size: 280%;
+    margin-left: 10px;
     }
 
     #menu {
     margin-left: 10px;
     display: block;
     float: left;
+    }
+
+    #tagline {
+    clear: both;
+    margin-left: 10px;
     }
 }
 
