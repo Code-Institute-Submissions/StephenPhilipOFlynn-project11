@@ -269,6 +269,17 @@ height: 400px;
     color: white;
   }
 
+#button-one:active {
+    background-color: #195905;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+#button-two:active {
+    background-color: #d11818;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
 
 input[type=text]:focus {
     border: 1px solid #555;
