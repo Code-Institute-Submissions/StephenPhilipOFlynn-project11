@@ -23,7 +23,7 @@ h1, h2 {
 
 #logo {
     float: left;
-    font-size: 280%;
+    font-size: 340%;
     margin-left: 30px;
 }
 
@@ -58,13 +58,13 @@ h1, h2 {
 /* hero image */
 
 #hero-outer {
-    height: 600px;
+    height: 500px;
     width: 100%;
     overflow: hidden;
 }
 
 #hero-image {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background: url('../images/men-playing-chess-reduced.jpg') no-repeat center center;
     animation-name: hero-zoom;
