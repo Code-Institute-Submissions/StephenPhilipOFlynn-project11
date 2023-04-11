@@ -1,108 +1,129 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+11.03.2023
+15.30 - My website is for a fictional chess-themed coffee shop.
+The coffee shop will have an address in Dublin city on Drury street, and primarily be a place to relax, with weekly social chess meet ups.
+15.44 – The shop will also be a place for people to stop in and drink coffee
+16.07 – Consider the name Chessaholics Dublin. Use as a placeholder name, until think of alternative name. 
 
-Welcome Stephen OFlynn,
+12.03.2023
+20.54 – Changed font to Roboto Mono
+20.58 – removed padding to hug left hand side of webpage.
+21.07 – added Barlow font as additional option for headings.
+21.24 – reverse order of home, signup list items, for continuity with typical website layout.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+22.02 - Added image of man at bar playing chess. 
+Credits – 
+22.10 – visual queue added  when hovering over home, gallery, signup
+22.32 – hero image replaced two coffee cups image with chessboard. It looks far too small, check resolution when size increased. Looks okay on laptop screen, but too small on monitor.
+22.31 – added transform property on hero image. Consider stronger main image.
+13.03.2023
+23.59 – logged on. Tried to add footer tags for youtube, Instagram, twitter, facebook. I think I need to import the tags though as they are not appearing on my webpage.
+00.51 – skeleton of gallery page added.
+00.59 – fix social media view icons issue tomorrow.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+18/03/2023
+14.15 – I have created three blurbs. Relax, meet new friends, shop. Not sure what fourth one should be. Perhaps some general comments regarding the benefits of the game of chess. 
+14.33 – 4th blurb about the benefits of chess. 
+14.44 – Add underline styling and symbols to headings, check fonts.
 
-## Gitpod Reminders
+14.51 – h2 styling on ‘why visit us’ not working. Not sure why. Tried putting inside div no change.
+17.27 – Free trial period for shutterstock for 10 images of coffee/ chess / chess / books.
+19.00 – uploaded 8 images to gallery page, predominantly coffee chess board. The images suggest a wooden, themed coffee shop, and an outdoor area. Find more images suggesting social aspect of coffee shop.
+19/03/2023
+00.25 – added details for tablet display. Need to add second image to shop-ethos to see if structure successfully changed.
+00.39 – name changed to Chesspresso
+20.03 – specific chess in coffee shop times. 6-9pm, Tuesday, Thursday 6-9pm, and 4pm -7pm Sunday.
+20.29 – background image not loading.
+21.10 – font awesome JS added. Hopefully issue corrected.
+21.47 – font appearing on left hand side.
+22/03/
+22.10 – added contact phone number and address to index and gallery page.
+00.15 – come back to add opening times, and consider push why visit us, event away from left edge. Sections overlapping on register page. May resolve when add registration form but would be nice to fix before that. Next big thing to resolve is appearance on mobile site. Also size of hero image far too big. Need to look at making hero image smaller but keeping aspect ratio.
+26/03/2023
+11.50 – need to make a call as to whether to add background images to events pages. 
+12.40 – mobile device – two images working. On mobile site, need to remove padding on header. So it doesn’t overlap right edge of small displays.
+13.04 – padding issue for header on mobile site resolved.
+13.03 – hero image not displaying at all three levels on updated site.
+13.04 – Correct formatting on Why Visit Us and Events so that consistent on mobile and pad devices.
+13.10 – remove padding on page navigation, so consistent with header or add minor padding so consistent. Menu not interacting correctly. 
+26/03.23
+18.40 – amend blurb for signup page.
+27/03/2023
+23.04 – remove events image for the moment.
+00.01 – trying to resolve inconsistency between font size ‘why visit us’ and ‘events’ at computer wide level. 
+00.20 - The second image not clearing the events details. Amended at computer level. At mobile level, why visit us / and events, still different sizes. Resolve this tomorrow. Tomorrow, style css on registration section. Also need to fix the way web-page sections appear on mobile site.
+29/03/2023
+23.09 – trying to style button on register page.
+23.23 – styling for button displaying on mobile but not computer. Not sure if cache not updating or responsive design issue.
+23.29 – not sure I can include a functioning subscribe button without backend. Or perhaps send to my own email. Reset button working.
+23.34 – at ipad level, heading and menu pages not aligned.
+23.38 – not sure why reg form and subscribe button different sizes. Looks slightly jarring ugly. CSS not pulling through on browser. Not sure if cache issue. 
+23.47 – buttons now the same size. Fonts lack consistency.
+00.21 – amending formatting on registration page at mobile / ipad level. Not sure if CSS pulling through on non-mobile devices. Try restarting computer to see changes, or using Brave browser as appears to have quicker cache refresh.
+1.06 – image doesn’t look very good on signup page, add as background or remove tomorrow.
+31/03/2023 
+22.15 – two bugs on jigsaw code validator. “#cover-text – missing 
+22.22 – correct names of two shutterstock images with spaces first. I have added a div to the photos section on the gallery page, still coming up as an error, not sure if cache has not refreshed
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+22.42 – validation - 1 CSS bug, and 2 html bugs remaining.
+1.34 – need to make sure images on main page have labels.
+21.12 - reviewing validation bugs.
+22.48 – all CSS validation bugs corrected. Recheck before submission.
+01/04/23
+13.30 - Consider margin left for events, as inconsistent with why visit us.
+14.12 – Add pictures to Register page to make more appealing.
+14.31 – questions for mentor. What about creating a form dump, however the  project is supposed to be purely html and css, so I think to have elements showing responsive button should be sufficient to demonstrate the input form for newsletter.
 
-`python3 -m http.server`
+07/04/2023
+21.09 – following mentor meeting. Using display: flex; and row-reverse to have formatting looking correct at iphone level. Told me to include, blank head tags for code validation on section bugs.
+21.17 – using tinypng.com to compress images, to make them load quicker.
+8/04/2023 – 11.50. some formatting issues fixed on register and contact us sections. Still need to try and get consistency between why visit us and events heading at iphone level.
+10/04/2023 – 15.41 – border radius property on input added.
+17.33 – looking at html bugs on gallery and register page. To seek to resolve validator bug at html, have created two different tags for buttons.
+20.50 – tagline added. Replace the image on the bench on the register page.
+11/04/2023 – 5.38 – CSS no validation bugs appearing on https://jigsaw.w3.org/css-validator/ for three pages. 
+https://validator.w3.org/
+Gallery page – has only one warning on hmtl.
+5.54 – correcting head / header elements for validator bugs. 
+6.02 – register page clear. Gallery and index page has warnings only re heading for photo section.
+7-8 - adding video, and amending formatting to avoid deadspace at either side of teh video, at monitor level in responsive design
 
-A blue button should appear to click: _Make Public_,
+Credits
+Website skeleton before personalisation - Love Running project, Code Academy.
+Websites for guidance on form, maps and footer – Coders Coffeehouse, Code Academy
+Website for inspiration on footer elements - https://3fe.com/
 
-Another blue button should appear to click: _Open Browser_.
+Mentor meeting with Akshat Garg. Guidance on responsive design bugs, validator bugs, formdumps.
+Code validation checking -
+https://jigsaw.w3.org/css-validator
+https://validator.w3.org/
+Guidance on styling buttons and inputs
+https://www.w3schools.com/css/css3_buttons.asp
+https://www.w3schools.com/css/css_form.asp
+https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_animate3
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A blue button should appear to click: _Make Public_,
+Inspiration for colour for buttons
+https://encycolorpedia.com/046307
 
-Another blue button should appear to click: _Open Browser_.
+Video Credit – Anna Cramling / Coffee Chess Youtube - Chess Player Won't Stop Trashing Talking so I Give Him a Lesson 
+https://www.youtube.com/watch?v=lufh3kOClhc
+Free stock images – 
+https://unsplash.com/
+https://pikwizard.com/search/?query=chess&assetType=photo
+https://fontawesome.com/icons
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+and trial period with 
+https://www.shutterstock.com/
+for high quality images images. See 10 Shutterstock pics high resolution version labelled in images. Shuttershock terms cover commercial use, so should be sufficient for academic diploma project
+Muffin on chessboard - 
+Photo by Kaffee Meister on Unsplash
 
-To log into the Heroku toolbelt CLI:
+Man at bar playing chess
+https://pikwizard.com/pw/small/e9173f6b631b1532a549d2f2ef8cde5b.avif
+Aesthetic turquoise chess board
+https://pikwizard.com/pw/small/705a0141481084a04d14e2cf4d9243af.avif
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
-------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+Coffee image -
+https://pixabay.com/photos/coffee-caffeine-cafe-drink-cup-2242265/?download
+Coffee machine
+https://pixabay.com/photos/coffee-coffee-machine-coffee-maker-1867659/
