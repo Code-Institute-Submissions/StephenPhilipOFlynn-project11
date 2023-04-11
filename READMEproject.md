@@ -85,7 +85,7 @@ https://validator.w3.org/
 Gallery page – has only one warning on hmtl.
 5.54 – correcting head / header elements for validator bugs. 
 6.02 – register page clear. Gallery and index page has warnings only re heading for photo section.
-7-8 - adding video, and amending formatting to avoid overlay at monitor level in responsive design
+7-8 - adding video, and amending formatting to avoid deadspace at either side of teh video, at monitor level in responsive design
 
 Credits
 Website skeleton before personalisation- Love Running project, Code Academy.
@@ -114,7 +114,7 @@ https://fontawesome.com/icons
 
 and trial period with 
 https://www.shutterstock.com/
-for high quality images images.
+for high quality images images. See 10 Shutterstock pics high resolution version labelled in images. Shuttershock terms cover commercial use, so should be sufficient for academic diploma project
 Muffin on chessboard - 
 Photo by Kaffee Meister on Unsplash
 
@@ -122,8 +122,6 @@ Man at bar playing chess
 https://pikwizard.com/pw/small/e9173f6b631b1532a549d2f2ef8cde5b.avif
 Aesthetic turquoise chess board
 https://pikwizard.com/pw/small/705a0141481084a04d14e2cf4d9243af.avif
-
-Shutterstock – Free 10 images used. Shuttershock terms cover commercial use, so should be sufficient for diploma project.
 
 Coffee image -
 https://pixabay.com/photos/coffee-caffeine-cafe-drink-cup-2242265/?download
