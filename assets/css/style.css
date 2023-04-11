@@ -293,6 +293,7 @@ input[type="text"], input[type="email"] {
     outline: 1px solid #252525;
     margin: 5px 0;
     border-radius: 2px;
+    font-size: 18px;
 }
 
 /* Tablet sized screens */
