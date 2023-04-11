@@ -214,6 +214,16 @@ max-width: 100%;
 height: 400px;
 }
 
+/* drinks and sandwich menu */
+.drinksmenu {
+    margin-left: 30px;
+}
+
+#drinksmenu-title {
+    font-size: 280%;
+    text-align: center;
+
+}
 /* gallery images */
 
 #photos {
@@ -296,6 +306,13 @@ input[type="text"], input[type="email"] {
     font-size: 18px;
 }
 
+#register-media {
+    margin-left: 30px;
+}
+
+#video-container {
+max-width: 800px;
+}
 /* Tablet sized screens */
 
 @media screen and (max-width: 1200px) {
@@ -337,6 +354,10 @@ input[type="text"], input[type="email"] {
 
     #events-title {
     font-size: 200%;
+    }
+
+    #drinksmenu-title {
+        font-size: 200%;    
     }
 }
 
@@ -401,6 +422,10 @@ input[type="text"], input[type="email"] {
     #tagline {
     clear: both;
     margin-left: 10px;
+    }
+
+    #register-media {
+        margin-left: 10px;
     }
 }
 
