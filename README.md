@@ -8,6 +8,9 @@ Navigation Bar
 -	Feature on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery, and Join [check] page. The navigation bar is identical on all three pages to allow for ease of navigation.
 -	The section will allow the user to easily navigate from page to page across all devices (from smart phone to large monitor / laptop.
 
+![HeroImage HeaderProject1](https://github.com/StephenPhilipOFlynn/project1/assets/124165807/063aef1e-b50d-4e24-b2be-2fed00bae434)
+
+
 Find Us
 -	The find us sections provides users with Chesspresso’s address, opening hours, phone number, and email. A hyperlink opens to a map of the location of the coffee shop in a new address.
 Footer
