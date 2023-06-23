@@ -37,6 +37,8 @@ Pictures
 Embedded video
 -	On the register page, a video of the chess youtube and twich star Anna Cramling playing Mike from Coffee Chess LA, provides some human interest, and entices the user with a typical and fun example of how informal chess is played.
 
+![Project1 EmbeddedVidShowingCoffeeHouseChess](https://github.com/StephenPhilipOFlynn/project1/assets/124165807/0bba6a0b-58ec-446c-9e58-590fdfbb5580)
+
 Credits
 Website skeleton before personalisation - Love Running project, Code Academy.
 Websites for guidance on form, maps and footer – Coders Coffeehouse, Code Academy
