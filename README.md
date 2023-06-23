@@ -16,6 +16,9 @@ Find Us
 Footer
 -	The footer sections includes links to the relevant social media sites for 
 -	The footer is a useful addition to the user, and it encourages them to keep connected via social media. Via the social media, enticing images of the vibrant community would be posted to retain there interest in Chesspresso.
+
+![Project1Footer Social Media Links](https://github.com/StephenPhilipOFlynn/project1/assets/124165807/b9b79eab-f89e-49d2-96e1-53c7cd9762f8)
+
 Home Page
 Landing page Image
 -	This section introduces the user to the Chesspresso with an wholesome image of two men enjoying playing chess, including a gentle but eye-catching animation, designed grab the users attention.
