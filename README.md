@@ -26,6 +26,8 @@ Landing page Image
 Gallery Page
 This page aims to help the user understand what to expect from attending the shop. There are appealing images of coffees beside chessboards, happy looking baristas, and individuals of various ages playing chess so that the website feels inclusive to users of all ages and backgrounds. 
 
+![Project1GalleryPage](https://github.com/StephenPhilipOFlynn/project1/assets/124165807/3834900c-4f93-4ea3-a33e-04a496db4d27)
+
 Register
 Submission form
 -	On the register page we find a submission form, for users to use their name and email to sign up to the Chesspresso newsletter which tells the users about upcoming events and meet-ups.
