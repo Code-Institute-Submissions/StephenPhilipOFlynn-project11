@@ -1,7 +1,6 @@
 Chesspresso
 This website is to promote a fictional coffee shop, located in Dublin city centre.
-The site will be targeted towards individuals who enjoy coffee and chess, and seek to encourage people to attend the coffee shop through our menu and selection of coffees.
-My website is for a fictional chess-themed coffee shop. The coffee shop will have an address in Dublin city center on Drury street, and primarily be a place to relax, with weekly social chess meet ups.
+The site will be specifically targeted towards individuals who enjoy coffee and chess, and seek to encourage people to attend the coffee shop through our menu and selection of hot beverages. The coffee shop will have an fictional address in Dublin city center on Drury street, and primarily be a place to relax, with weekly social chess meet ups.
 
 Features
 Navigation Bar
@@ -49,7 +48,7 @@ Website skeleton before personalisation - Love Running project, Code Academy.
 Websites for guidance on form, maps and footer – Coders Coffeehouse, Code Academy
 Website for inspiration on footer elements - https://3fe.com/
 
-Mentor meeting with Akshat Garg. Guidance on responsive design bugs, validator bugs, formdumps.
+Mentor meeting with Akshat Garg. Guidance on responsive design bugs, validator bugs, formdumps, forms
 Code validation checking -
 https://jigsaw.w3.org/css-validator
 https://validator.w3.org/
@@ -57,7 +56,7 @@ Guidance on styling buttons and inputs
 https://www.w3schools.com/css/css3_buttons.asp
 https://www.w3schools.com/css/css_form.asp
 https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_animate3
-
+https://www.w3schools.com/tags/att_input_required.asp
 
 Inspiration for colour for buttons
 https://encycolorpedia.com/046307
