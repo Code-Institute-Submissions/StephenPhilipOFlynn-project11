@@ -2,17 +2,6 @@ Chesspresso
 This website is to promote a fictional coffee shop, located in Dublin city centre.
 The site will be specifically targeted towards individuals who enjoy coffee and chess, and seek to encourage people to attend the coffee shop through our menu and selection of hot beverages. The coffee shop will have an fictional address in Dublin city center on Drury street, and primarily be a place to relax, with weekly social chess meet ups.
 
-UX Design Comments
-
-A white background will be used for the website to contrast with the dark grey font, and black font. This will give the website a classic feel, with the white background and dark grey/ black contrasting appropriately for the user's ease. The white and dark will also subconsciously suggest the themes of a classic chessboard.
-See wireframe in assets for the mobile design of the landing page.
-
-The user will be viewing the website to find information about the whereabouts of the coffee shop. Therefore the contact details of the coffee shop will be clearly available on the bottom of each of the three pages. Visual imagery of people enjoying a game of chess with hot drinks beside them, will build the human appeal that this is an fun, relaxed and welcoming environment. On the landing page, scrolling down the menu will be available for people to check what food and drink is available. 
-
-A "Why Visit Us" section on the landing page will also provide four core reasons why someone may wish to attend the coffee shop. For any user who actively searched out the website, or stumbled across it, they will learn why it would be beneficial to attend. An appealing image of a latte with coffee art and a wooden chess board behind the coffee will entice the user and summarise two key themes of the site.
-
-For those interested in becoming part of the Chesspresso commumity, they will need to navigate to the third page. This is clearly labelled at the top of every page, and on the register page the form is placed prominently near the top. 
-
 Features
 Navigation Bar
 -	Feature on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery, and Register page. The navigation bar is identical on all three pages to allow for ease of navigation for the user.
@@ -56,6 +45,17 @@ Embedded video
 -	On the register page, a video of the chess youtube and twich star Anna Cramling playing Mike from Coffee Chess LA, provides some human interest, and entices the user with a typical and fun example of how informal chess is played.
 
 ![Project1 EmbeddedVidShowingCoffeeHouseChess](https://github.com/StephenPhilipOFlynn/project1/assets/124165807/0bba6a0b-58ec-446c-9e58-590fdfbb5580)
+
+UX Design Comments
+
+A white background will be used for the website to contrast with the dark grey font, and black font. This will give the website a classic feel, with the white background and dark grey/ black contrasting appropriately for the user's ease. The white and dark will also subconsciously suggest the themes of a classic chessboard.
+See wireframe in assets for the mobile design of the landing page.
+
+A user who seeks out the website will be viewing the website to find information about the whereabouts of the coffee shop, and what happens there. Therefore the contact details of the coffee shop will be clearly available on the bottom of each of the three pages. Visual imagery of people enjoying a game of chess with hot drinks beside them, will build the human appeal that this is an fun, relaxed and welcoming environment. On the landing page, scrolling down the menu will be available for people to check what food and drink is available. 
+
+A "Why Visit Us" section on the landing page will also provide four core reasons why someone may wish to attend the coffee shop. For any user who actively searched out the website, or stumbled across it, they will confirm why it would be beneficial to attend. An appealing image of a latte with coffee art and a classic wooden chess board behind the coffee will entice the user and summarise two key themes of the site.
+
+For those interested in becoming part of the Chesspresso commumity, they will navigate to the register page. This is clearly labelled at the top of every page in the navigation bar, and on the register page the form is placed prominently near the top. 
 
 Deployment
 A version of this page was first deployed on Github pages on the 11 April 2023. After requested amendments to the website from Code Institue this repository was forked to make further amendments. Following these changes, the website was redeployed via github pages on the 27 June 2023.
