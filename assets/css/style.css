@@ -123,6 +123,13 @@ h1, h2 {
 
 /*contact details*/
 
+#find-us
+{
+    font-size: 280%;
+    text-align: center;
+    margin: 20px 0;
+ }
+
 .contact-details {
     margin-left: 30px;
 }
