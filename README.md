@@ -49,9 +49,7 @@ Embedded video
 UX Design Comments
 
 A white background will be used for the website to contrast with the dark grey font, and black font. This will give the website a classic feel, with the white background and dark grey/ black contrasting appropriately for the user's ease. The white and dark will also subconsciously suggest the themes of a classic chessboard.
-Please see the below wireframe for the mobile design of the landing page.
-
-![Wireframe-MobileLanding1](https://github.com/StephenPhilipOFlynn/project1/assets/124165807/2de7447f-d223-4e64-8e86-397e52d547b6)
+Please see the wireframe for the mobile design of the landing page in assets.
 
 A user who searches for the website will be viewing the website to find information about the whereabouts of the coffee shop, and potentially what to expect there. Therefore, the address and contact details of the coffee shop will be clearly available on the bottom of each of the three pages. Visual imagery of people enjoying a game of chess with hot drinks beside them, will help create the appeal that this is a fun, relaxed and welcoming environment. Another reason a user may check the website is the menu. Therefore, on the landing page, scrolling down the menu will be available for people to check what food and drink is available. 
 
@@ -71,6 +69,9 @@ Website for inspiration on footer elements - https://3fe.com/
 Fonts
 Googlefonts - Roboto Mono, Barlow
 
+Icons
+https://fontawesome.com/icons
+
 Mentor meeting with Akshat Garg. Guidance on responsive design bugs, validator bugs, forms
 Code validation checking -
 https://jigsaw.w3.org/css-validator
@@ -89,9 +90,9 @@ https://www.youtube.com/watch?v=lufh3kOClhc
 Free stock images – 
 https://unsplash.com/
 https://pikwizard.com/search/?query=chess&assetType=photo
-https://fontawesome.com/icons
 
-and trial period with 
+
+Trial period with 
 https://www.shutterstock.com/
 to download 10 high quality images. See 10 Shutterstock pics high resolution version labelled in images. Shuttershock terms cover all use.
 Muffin on chessboard - 
