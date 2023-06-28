@@ -320,6 +320,10 @@ input[type="text"], input[type="email"] {
 #video-container {
 max-width: 800px;
 }
+
+#message {
+    font-size: 20px;
+}
 /* Tablet sized screens */
 
 @media screen and (max-width: 1200px) {
