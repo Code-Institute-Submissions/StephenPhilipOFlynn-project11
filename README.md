@@ -111,3 +111,5 @@ https://pixabay.com/photos/people-woman-call-shop-coffee-2588594/
 Microsoft Word - UK/ Ireland English spellcheck
 
 All webpages, fonts, photos, icons, embedded videos have been credited to the best of my knowledge, please message me if I have inadvertently missed anything.
+
+Website checked on 28 June 2023 with no validation errors on https://validator.w3.org/ and https://jigsaw.w3.org/
