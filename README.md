@@ -59,6 +59,14 @@ A 'Why Visit Us' section on the landing page will also provide four core reasons
 
 For those interested in becoming part of the Chesspresso commumity, they will navigate to the register page. This is clearly labelled at the top of every page in the navigation bar, and on the register page the form is placed prominently near the top. 
 
+Testing
+I tested taht this page works in different browsers: Chrome, Safari, Brave.
+I confirmed this project is responsive, looks good and functions on all standard screen sizes using devtools.
+I confirmed that the navigation, header, register, gallery, landing page and other text are all readable and easy to understand.
+I have confirmed that the form works: requires entries in every field, will only accept an email in the email field, and the submit button works.
+Accessibility - I confirmed that the colours and fonts chosen are easy to read and accessible by running it through devtools.
+
+
 Deployment
 The website was created using Gitpod VS Code, and version control was maintained using Github. The first commit was on the 11 March 2023. A version of this page was first deployed on Github pages on the 11 April 2023. After requested amendments to the website from Code Institute this repository was forked to make further amendments. Following these changes, the website was redeployed via Github pages on the 28 June 2023.
 
