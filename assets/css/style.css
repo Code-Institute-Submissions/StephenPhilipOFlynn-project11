@@ -435,9 +435,13 @@ max-width: 800px;
     margin-left: 10px;
     }
 
-    #register-media {
+    #register-page-media {
         margin-left: 10px;
     }
+
+    #video-container {
+        max-width: 750px;
+        }
 }
 
 @media screen and (max-width: 400px) {
