@@ -48,12 +48,14 @@ Embedded video
 
 UX Design Comments
 
-A white background will be used for the website to contrast with the dark grey font, and black font. This will give the website a classic feel, with the white background and dark grey/ black contrasting appropriately for the user's ease. The white and dark will also subconsciously suggest the themes of a classic chessboard.
-Please see the wireframe for the mobile design of the landing page in assets.
+A white background will be used for the website to contrast with the dark grey font, and black font. This will give the website a classic feel, with the white background and dark grey/ black contrasting appropriately for the user's ease. The white and dark contrast will also subconsciously suggest the themes of a classic chessboard.
+Please see the wireframe for the mobile design of the landing page in the assets folder.
 
 A user who searches for the website will be viewing the website to find information about the whereabouts of the coffee shop, and potentially what to expect there. Therefore, the address and contact details of the coffee shop will be clearly available on the bottom of each of the three pages. Visual imagery of people enjoying a game of chess with hot drinks beside them, will help create the appeal that this is a fun, relaxed and welcoming environment. Another reason a user may check the website is the menu. Therefore, on the landing page, scrolling down the menu will be available for people to check what food and drink is available. 
 
-A "Why Visit Us" section on the landing page will also provide four core reasons why someone may wish to attend the coffee shop. For any user who actively searched out the website, or stumbled across it, they will confirm why it would be beneficial to attend. An appealing image of a latte with coffee art and a classic wooden chess board behind the coffee will entice the user and summarise two key themes of the site.
+A "Why Visit Us" section on the landing page will also provide four core reasons why someone may wish to attend the coffee shop. For any user who actively searched out the website, or stumbled across it, they will confirm why it would be beneficial to attend. An appealing image of a latte with coffee art and a classic wooden chess board behind the coffee will entice the user and summarise two key themes of the site. The index page will be responsive on a variety of device from small smart phone to computers with large displays, to allow the website to be pleasant for the user to interact with. Please see the below ipad view of the 'Why Visit Us' section.
+
+![ipad_view_whyvisitus jpg](https://github.com/StephenPhilipOFlynn/project1/assets/124165807/e8334a7b-a041-4a05-b72e-2479ebb08352)
 
 For those interested in becoming part of the Chesspresso commumity, they will navigate to the register page. This is clearly labelled at the top of every page in the navigation bar, and on the register page the form is placed prominently near the top. 
 
@@ -64,7 +66,7 @@ The website was created using Gitpod VS Code, and version control was maintained
 Credits
 Website skeleton before personalisation - Love Running project, Code Academy.
 Websites for guidance on forms, maps, footer and other elements – Coders Coffeehouse, Code Academy
-Website for inspiration on footer elements - https://3fe.com/
+Website for inspiration on coffee shop website styling - https://3fe.com/
 
 Fonts
 Googlefonts - Roboto Mono, Barlow
@@ -81,6 +83,7 @@ https://www.w3schools.com/css/css3_buttons.asp
 https://www.w3schools.com/css/css_form.asp
 https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_animate3
 https://www.w3schools.com/tags/att_input_required.asp
+https://www.youtube.com/watch?v=x1uwAQDq2bw - javascript form submitted message
 
 Inspiration for color for buttons
 https://encycolorpedia.com/046307
@@ -106,3 +109,5 @@ Woman with a coffee
 https://pixabay.com/photos/people-woman-call-shop-coffee-2588594/
 
 Microsoft Word - UK/ Ireland English spellcheck
+
+All webpages, fonts, photos, icons, embedded videos have been credited to the best of my knowledge, please message me if I have inadvertently missed anything.
